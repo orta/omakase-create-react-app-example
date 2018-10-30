@@ -5,3 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 We're interested in exploring having the [Artsy Omakase JS](https://speakerdeck.com/artsyopensource/the-artsy-omakase-artsy-x-react-native-2018)   stack to be a project that acts a lot like react-scripts does, and maybe one of the ways that it can exist is as a sibling _to_ react-scripts.
 
+
+- Server: https://omakase-test-tyyewizbzn.now.sh
+- API: https://qxxl39373p.lp.gql.zone/
+
+![](screenshots/cra.png)
